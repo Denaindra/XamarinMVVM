@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E3F0C9A2-1EB0-4564-B3B5-AA98D7A8148C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MVVM_1/ClockViewModel.cs" Line="25" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MVVM__1.Droid PreferredExecutionTarget="Android.G0W0H404642202AS" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
